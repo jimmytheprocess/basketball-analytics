@@ -23,13 +23,13 @@ In terms of the hypotheses, we found that the home spread came from an underlyin
 We also found that field goals made, turnovers, and blocks are three other statistics that may contribute to the difference between the home and away spread of Indiana Pacers. In terms of the model, we found that there are four statistics that significantly predict the spread of Indiana Pacers: defensive rebound of the team, field goal made of the opponent team, assist of the opponent team and the field goal percentage of the team. When we were building a model for the league, in addition to the four factors that were mentioned, we found that two extra statistics that predict the spread: the defensive rebound of the opponent team and the field percentage of the opponent team.
 
 # Datasets Used
-2016-2017NBABoxScoresAverages1.csv      box score data scraped from the Internet
+2016-2017NBABoxScoresAverages1.csv:      box score data scraped from the Internet
 
-data_Jason_Jimmy_cleaned.csv            cleaned data
+data_Jason_Jimmy_cleaned.csv:            cleaned data
 
-full_results.csv                        results knitted into csv    
+full_results.csv:                        results knitted into csv    
 
-p_value_spread_team.csv                 results knitted into csv   
+p_value_spread_team.csv:                 results knitted into csv   
 
-p_value_stats_pacers.csv                results knitted into csv
+p_value_stats_pacers.csv:                results knitted into csv
 
